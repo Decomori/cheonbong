@@ -6,20 +6,18 @@
 using System;
 
 public class B10950{
-	public static void Main(){
+	public static void main(String[] args){
 		
-		string T = Console.ReadLine();
-		int count = int.Parse(T);
-		string s; 
-		string[] ss;
+		int a, b, n;
 		
-		for(int i=0; i<count; i++){
-			s = Console.ReadLine();
-			ss = s.Split();
+		n = int.Parse(Console.ReadLine());
+		
+		for(int i=0; i<n; i++){
+            a = Console.Read() - 48;
+            Console.Read();
+            b = Console.Read() - 48;
+            Console.WriteLine(a + b);
+            Console.ReadLine();
 		}
-		
-		
-		int a = int.Parse(ss[4]);
-		Console.WriteLine(a);
 	}
 }
