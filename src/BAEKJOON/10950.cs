@@ -15,10 +15,11 @@ public class B10950{
 		
 		for(int i=0; i<count; i++){
 			s = Console.ReadLine();
+			ss = s.Split();
 		}
 		
-		int a = int.parse
 		
-		Console.WriteLine(T);
+		int a = int.Parse(ss[4]);
+		Console.WriteLine(a);
 	}
 }
