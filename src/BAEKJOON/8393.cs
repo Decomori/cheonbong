@@ -10,7 +10,6 @@ public class B8393{
 		for(int i=1; i<=a; i++){
 			sum += i;
 		}
-		
 		Console.WriteLine(sum);
 	}
 }
