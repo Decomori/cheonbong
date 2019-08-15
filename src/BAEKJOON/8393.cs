@@ -2,7 +2,7 @@
 using System;
 
 public class B8393{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		string s = Console.ReadLine();
 		int a = int.Parse(s);
 		int sum = 0;
