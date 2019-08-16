@@ -4,7 +4,7 @@
 using System;
 
 public class B10998{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		string s = Console.ReadLine();
 		string[] ss = s.Split();
 		
