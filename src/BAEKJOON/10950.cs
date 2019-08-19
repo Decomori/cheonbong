@@ -6,7 +6,7 @@
 using System;
 
 public class B10950{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		
 		string s = Console.ReadLine();
 		int s1 = int.Parse(s);
