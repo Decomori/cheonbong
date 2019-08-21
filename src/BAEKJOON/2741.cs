@@ -3,7 +3,7 @@ using System;
 using System.Text;
 
 public class B2741{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		int n = int.Parse(Console.ReadLine().Trim());
 		StringBuilder sb = new StringBuilder();
 			for (int i = 1; i <= n; i++)
@@ -11,7 +11,5 @@ public class B2741{
                 sb.AppendLine(i.ToString()); 
             } 
         Console.Write(sb.ToString());
-		
-		//123456789
 	}
 }
