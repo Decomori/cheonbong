@@ -5,7 +5,7 @@ using System;
 using System.Text;
 
 public class B15552{
-	public static void Main(String[] args){
+	public static void main(String[] args){
 		int count = int.Parse(Console.ReadLine().Trim());
 		string s = Console.ReadLine();
 		string[] ss = s.Split();
