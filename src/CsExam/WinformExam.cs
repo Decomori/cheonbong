@@ -1,4 +1,4 @@
-using System.Windows.Forms;
+/*using System.Windows.Forms;
 
 namespace WindowsFormApp1{
 	public partial class Form1 : Form{
@@ -6,4 +6,4 @@ namespace WindowsFormApp1{
 			InitializeComponent();
 		}
 	}
-}
+}*/
