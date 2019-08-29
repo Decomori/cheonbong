@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 class ArrayExample
 {
@@ -44,4 +44,4 @@ class ArrayExample
 //        Sat Fri Thu Wed Tue Mon Sun
 //
 //        Array weekDays after the call to ChangeArrayElements:
-//        Mon Wed Fri Wed Tue Mon Sun
+//        Mon Wed Fri Wed Tue Mon Sun*/
